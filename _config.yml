@@ -12,7 +12,6 @@ favicon: 'favicon.ico'
 
 # Online profiles
 email: 'corporate@electionforecastsglobal.com'
-messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
