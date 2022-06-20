@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Politico Tech Global'
-description: 'Political Uncertainty Simplified'
+description: 'Uncertainty Simplified'
 
 # Images
 avatar: 'avatar.jpg'
