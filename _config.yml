@@ -42,6 +42,9 @@ social-links:
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
+  - name: twitter
+    url-pattern: twitter.com/__USERNAME__
+
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
 
@@ -132,3 +135,7 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
+
+  - name: blog_url
+    url-scheme: 'https://dropbox.com'
+    icon-class: fa-solid fa-file-arrow-down
