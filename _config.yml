@@ -49,7 +49,7 @@ social-links:
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
-    url-pattern: linkedin.com/in/__USERNAME__
+    url-pattern: linkedin.com/company/__USERNAME__
 
   - name: github-user
     url-pattern: github.com/__USERNAME__
