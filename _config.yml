@@ -11,12 +11,12 @@ background: 'header.jpg'
 favicon: 'ptg.ico'
 
 # Online profiles
-Email: 'contact@politicotechglobal.com'
-Broshure: 'github.com/politicotechglobal/politicotechglobal.github.io/raw/main/brochure/PTG%20Brochure.pdf'
+E-mail: 'contact@politicotechglobal.com'
+Brochure: 'github.com/politicotechglobal/politicotechglobal.github.io/raw/main/brochure/PTG%20Brochure.pdf'
 Linkedin: 'politico-tech-global'
 
 
-social-links-order: [Email, Brochure, Linkedin]
+social-links-order: [E-mail, Brochure, Linkedin]
 
 # Yaml manifest of supported social links
 # Requirements:
