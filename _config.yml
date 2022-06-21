@@ -61,4 +61,4 @@ social-links:
   - name: download
     url-pattern: '__USERNAME__'
     url-scheme: 'https://'
-    icon-class: fa-solid fa-file-pdf
+    icon-class: fa-2x fa-file-pdf
