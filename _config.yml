@@ -137,5 +137,6 @@ social-links:
     icon-class: far fa-2x fa-envelope-open
 
   - name: report_url
-    url-scheme: 'https://www.dropbox.com/s/fdjf2ol4f567szn/PTG%20Brochure%202.pdf?dl=0'
-    icon-class: fa-solid fa-file-arrow-down
+      url-scheme: 'https//:'
+      url-pattern: 'dropbox.com/s/fdjf2ol4f567szn/PTG%20Brochure%202.pdf?dl=0'
+      icon-class: fas fa-2x fa-blog
