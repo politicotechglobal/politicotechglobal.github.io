@@ -13,7 +13,7 @@ favicon: 'ptg.ico'
 # Online profiles
 email: 'contact@politicotechglobal.com'
 download: 'github.com/politicotechglobal/politicotechglobal.github.io/raw/main/brochure/PTG%20Brochure.pdf'
-linkedin: 'company/politico-tech-global'
+linkedin: 'politico-tech-global'
 
 
 social-links-order: [email, download, linkedin]
@@ -41,9 +41,6 @@ social-links:
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
-
-  - name: twitter
-    url-pattern: twitter.com/__USERNAME__
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
