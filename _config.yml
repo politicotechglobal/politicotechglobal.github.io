@@ -12,10 +12,10 @@ favicon: 'ptg.ico'
 
 # Online profiles
 email: 'contact@politicotechglobal.com'
-brochure: 'dropbox.com/s/fdjf2ol4f567szn/PTG%20Brochure%202.pdf?dl=0'
+blog_url: 'dropbox.com/s/fdjf2ol4f567szn/PTG%20Brochure%202.pdf?dl=0'
 
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email, brochure]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -138,7 +138,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
 
-  - name: brochure
+  - name: blog_url2
       url-scheme: 'https://'
       url-pattern: '__USERNAME__'
       icon-class: far fa-2x fa-envelope-open
