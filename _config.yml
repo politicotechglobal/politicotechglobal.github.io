@@ -129,16 +129,12 @@ social-links:
   - name: quora
     url-pattern: www.quora.com/profile/__USERNAME__
 
-  - name: blog_url
-    url-pattern: '__USERNAME__'
-    icon-class: fas fa-2x fa-blog
-
   - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
 
-  - name: blog_url2
+  - name: blog_url
       url-scheme: 'https://'
       url-pattern: '__USERNAME__'
       icon-class: far fa-2x fa-envelope-open
