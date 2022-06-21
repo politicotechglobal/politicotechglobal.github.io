@@ -61,4 +61,4 @@ social-links:
   - name: download
     url-pattern: '__USERNAME__'
     url-scheme: 'https://'
-    icon-class: fas fa-2x fa-snowboarding
+    icon-class: fas fa-file-arrow-down
