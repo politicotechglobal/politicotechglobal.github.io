@@ -136,5 +136,5 @@ social-links:
 
   - name: blog_url
       url-scheme: 'https://'
-      url-pattern: 'www.dropbox.com/__USERNAME__'
+      url-pattern: '__USERNAME__'
       icon-class: far fa-2x fa-envelope-open
