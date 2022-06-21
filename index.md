@@ -9,4 +9,4 @@ layout: default
 <meta property="og:title" content="Political Tech Global"/>
 <meta property="og:description" content="Uncertainty Simplified"/>
 <meta property="og:site_name" content="Political Tech Global"/>
-<meta property="og:image" content="./avatar.png"/>
+<meta property="og:image" content="avatar.jpg"/>
