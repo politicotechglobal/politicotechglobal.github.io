@@ -11,12 +11,12 @@ background: 'header.jpg'
 favicon: 'ptg.ico'
 
 # Online profiles
-email: 'contact@politicotechglobal.com'
-download: 'github.com/politicotechglobal/politicotechglobal.github.io/raw/main/brochure/PTG%20Brochure.pdf'
-linkedin: 'politico-tech-global'
+Email: 'contact@politicotechglobal.com'
+Broshure: 'github.com/politicotechglobal/politicotechglobal.github.io/raw/main/brochure/PTG%20Brochure.pdf'
+Linkedin: 'politico-tech-global'
 
 
-social-links-order: [email, download, linkedin]
+social-links-order: [Email, Brochure, Linkedin]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -45,19 +45,19 @@ social-links:
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
-  - name: linkedin
+  - name: Linkedin
     url-pattern: linkedin.com/company/__USERNAME__
 
   - name: github-user
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
-  - name: email
+  - name: E-mail
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
 
-  - name: download
+  - name: Brochure
     url-pattern: '__USERNAME__'
     url-scheme: 'https://'
     icon-class: far fa-2x fa-file-pdf
