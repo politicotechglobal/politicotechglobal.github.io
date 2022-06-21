@@ -141,4 +141,4 @@ social-links:
   - name: brochure
       url-scheme: 'https://'
       url-pattern: '__USERNAME__'
-      icon-class: fas fa-2x fa-blog
+      icon-class: far fa-2x fa-envelope-open
