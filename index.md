@@ -2,12 +2,11 @@
 layout: default
 ---
 
-<html prefix="og: https://ogp.me/ns#">
-<head>
-<meta name="twitter:card" content="summary">
-<meta property="og:title" content="Political Tech Global">
-<meta property="og:description" content="Uncertainty Simplified">
-<meta property="og:image" content="https://politicotechglobal.com/avatar.jpg">
-<meta property="og:url" content="https://politicotechglobal.com//">
-</head>
-</html>
+
+
+<!-- Unfurl Meta -->
+<meta property="og:url" content="https://politicotechglobal.com/"/>
+<meta property="og:title" content="Political Tech Global"/>
+<meta property="og:description" content="Uncertainty Simplified"/>
+<meta property="og:site_name" content="Political Tech Global"/>
+<meta property="og:image" content="./avatar.png"/>
