@@ -16,7 +16,7 @@ download: 'github.com/politicotechglobal/politicotechglobal.github.io/raw/main/b
 linkedin: 'company/politico-tech-global'
 
 
-social-links-order: [github-user, facebook, twitter, instagram, blog_url, email, download]
+social-links-order: [email, download, linkedin]
 
 # Yaml manifest of supported social links
 # Requirements:
