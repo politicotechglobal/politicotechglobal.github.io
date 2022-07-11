@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: singles
 ---
 
----
 
 En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La primera sección muestra el total de votaciones y votos registrados. La segunda sección usa los datos del pleno para mostrar el ordenamiento ideológico de las coaliciones y los partidos. La tercera sección usa los datos del pleno para mostrar e ordenamiento de los colectivos. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos y el Codebook [**aquí**](https://tresquintos.cl/datos). Revisa las tendencias de los constituyentes [**aquí**](https://tresquintos.cl/constituyentes).
 
