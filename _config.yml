@@ -16,7 +16,7 @@ Brochure: 'github.com/politicotechglobal/politicotechglobal.github.io/raw/main/b
 Linkedin: 'politico-tech-global'
 
 
-social-links-order: [E-mail, Brochure]
+social-links-order: [E-mail, Brochure, Linkedin]
 
 # Yaml manifest of supported social links
 # Requirements:
