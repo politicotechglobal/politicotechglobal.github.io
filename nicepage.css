@@ -38075,6 +38075,10 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -84px auto 0 100px;
 }
 
+.u-header .u-btn-1 {
+  background-image: none;
+}
+
 .u-header .u-menu-1 {
   margin: -67px -20px 58px auto;
 }
@@ -38101,6 +38105,10 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
     margin-top: -88px;
     margin-left: 111px;
+  }
+
+  .u-header .u-btn-1 {
+    padding: 0;
   }
 
   .u-header .u-menu-1 {
