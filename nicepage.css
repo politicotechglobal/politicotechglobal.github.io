@@ -38188,7 +38188,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
-
+@media (max-width: 767px) {
+  .u-footer .u-btn-1 {
+    color: rgba(0, 0, 0, 0);
+  }
+}
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
     width: 340px;
