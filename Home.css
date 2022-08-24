@@ -141,9 +141,8 @@
 
   .u-section-1 .u-list-1 {
     width: 489px;
-    margin-top: 18px;
-    margin-right: -19px;
-    margin-bottom: 36px;
+    margin-top: 15px;
+    margin-bottom: 39px;
   }
 }
 
@@ -167,6 +166,10 @@
 }
 
 @media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 947px;
   }
