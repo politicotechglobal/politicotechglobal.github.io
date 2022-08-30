@@ -12,13 +12,13 @@
   line-height: 0.9;
   text-transform: uppercase;
   font-weight: 900;
-  margin: 19px 558px 0 12px;
+  margin: 18px 558px 0 12px;
 }
 
 .u-section-1 .u-list-1 {
   grid-template-rows: auto;
   width: 524px;
-  margin: 163px 0 33px auto;
+  margin: 162px 29px 35px auto;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -163,13 +163,14 @@
     margin-right: auto;
     margin-bottom: 53px;
   }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 24.5px) calc(50% - 24.5px);
+    grid-gap: 49px 49px;
+  }
 }
 
 @media (max-width: 767px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 947px;
   }
@@ -181,8 +182,16 @@
   }
 
   .u-section-1 .u-list-1 {
+    width: 300px;
     margin-top: 281px;
     margin-bottom: 32px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 500px;
+    grid-gap: 40px 40px;
+    grid-template-columns: 100%;
+    grid-auto-columns: 100%;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -219,14 +228,13 @@
   }
 
   .u-section-1 .u-list-1 {
-    width: 331px;
+    width: 200px;
     margin-top: 390px;
     margin-bottom: 42px;
   }
 
   .u-section-1 .u-repeater-1 {
-    grid-template-columns: calc(50% - 15px) calc(50% - 15px);
-    min-height: 306px;
+    min-height: 642px;
     grid-gap: 30px 30px;
   }
 
@@ -1980,9 +1988,9 @@
 }
 
 .u-section-8 .u-repeater-1 {
-  grid-template-columns: repeat(4, calc(25% - 15.75px));
+  grid-template-columns: calc(25% - 21.75px) calc(25% - 21.75px) calc(25% - 21.75px) calc(25% - 21.75px);
   min-height: 251px;
-  grid-gap: 21px;
+  grid-gap: 29px 29px;
 }
 
 .u-section-8 .u-list-item-1 {
@@ -2303,8 +2311,8 @@
   }
 
   .u-section-8 .u-repeater-1 {
-    grid-template-columns: repeat(2, calc(50% - 10.5px));
     min-height: 494px;
+    grid-template-columns: calc(50% - 14.5px) calc(50% - 14.5px);
   }
 
   .u-section-8 .u-text-1 {
@@ -2358,7 +2366,12 @@
   }
 
   .u-section-8 .u-list-1 {
-    width: 540px;
+    width: 300px;
+  }
+
+  .u-section-8 .u-repeater-1 {
+    min-height: 700px;
+    grid-template-columns: 100%;
   }
 
   .u-section-8 .u-container-layout-1 {
@@ -2399,12 +2412,8 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-8 .u-list-1 {
-    width: 340px;
-  }
-
   .u-section-8 .u-repeater-1 {
-    grid-template-columns: 100%;
+    min-height: 1211px;
   }
 
   .u-section-8 .u-container-layout-1 {
