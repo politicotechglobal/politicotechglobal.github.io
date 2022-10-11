@@ -202,4 +202,54 @@
   .u-section-2 .u-sheet-1 {
     min-height: 137px;
   }
+}.u-section-3 .u-sheet-1 {
+  min-height: 168px;
+}
+
+.u-section-3 .u-social-icons-1 {
+  height: 30px;
+  min-height: 16px;
+  width: 310px;
+  min-width: 198px;
+  margin: 60px auto;
+}
+
+.u-section-3 .u-icon-1 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-3 .u-icon-2 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-3 .u-icon-3 {
+  height: 100%;
+  color: rgb(0, 122, 185) !important;
+}
+
+.u-section-3 .u-icon-4 {
+  height: 100%;
+  color: rgb(219, 83, 75) !important;
+}
+
+.u-section-3 .u-icon-5 {
+  height: 100%;
+  color: rgb(255, 153, 17) !important;
+}
+
+.u-section-3 .u-icon-6 {
+  height: 100%;
+  color: rgb(66, 171, 240) !important;
+}
+
+.u-section-3 .u-icon-7 {
+  height: 100%;
+  color: rgb(115, 96, 242) !important;
+}
+
+.u-section-3 .u-icon-8 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
 }
