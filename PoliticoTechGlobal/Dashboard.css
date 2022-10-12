@@ -161,7 +161,6 @@
   min-height: 345px;
   grid-template-columns: 100%;
   grid-gap: 34px 34px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -223,7 +222,6 @@
   min-height: 345px;
   grid-template-columns: 100%;
   grid-gap: 34px 34px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-3 .u-container-layout-9 {
@@ -285,7 +283,6 @@
   min-height: 345px;
   grid-template-columns: 100%;
   grid-gap: 34px 34px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-3 .u-container-layout-14 {
@@ -386,7 +383,6 @@
     min-height: 115px;
     grid-template-columns: calc(33.3333% - 77.3333px) calc(33.3333% - 77.3333px) calc(33.3333% - 77.3333px);
     grid-gap: 116px 116px;
-    grid-auto-columns: calc(33.3333% - 77.3333px);
   }
 
   .u-section-3 .u-text-2 {
@@ -486,7 +482,6 @@
   .u-section-3 .u-repeater-1 {
     min-height: 1021px;
     grid-template-columns: 100%;
-    grid-auto-columns: 100%;
   }
 
   .u-section-3 .u-container-layout-1 {
