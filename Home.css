@@ -1198,7 +1198,6 @@
   grid-template-columns: calc(25% - 32.25px) calc(25% - 32.25px) calc(25% - 32.25px) calc(25% - 32.25px);
   min-height: 144px;
   grid-gap: 43px 43px;
-  grid-auto-columns: calc(25% - 32.25px);
 }
 
 .u-section-8 .u-list-item-1 {
@@ -1380,7 +1379,6 @@
   .u-section-8 .u-repeater-1 {
     min-height: 133px;
     grid-gap: 41px 41px;
-    grid-template-columns: repeat(4, calc(25% - 32.25px));
   }
 
   .u-section-8 .u-container-layout-1 {
@@ -1491,7 +1489,6 @@
     min-height: 300px;
     grid-gap: 38px 38px;
     grid-template-columns: calc(50% - 21.5px) calc(50% - 21.5px);
-    grid-auto-columns: calc(50% - 21.5px);
   }
 
   .u-section-8 .u-container-layout-1 {
@@ -1582,7 +1579,6 @@
     min-height: 329px;
     grid-gap: 45px 45px;
     grid-template-columns: calc(50% - 22.5px) calc(50% - 22.5px);
-    grid-auto-columns: calc(50% - 22.5px);
   }
 
   .u-section-8 .u-container-layout-1 {
@@ -1660,7 +1656,6 @@
     min-height: 300px;
     grid-gap: 37px 37px;
     grid-template-columns: calc(50% - 18.5px) calc(50% - 18.5px);
-    grid-auto-columns: calc(50% - 18.5px);
   }
 
   .u-section-8 .u-container-layout-1 {
