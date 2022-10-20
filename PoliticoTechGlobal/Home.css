@@ -62,7 +62,7 @@
     font-size: 3.75rem;
   }
 } .u-section-2 {
-  min-height: 300px;
+  min-height: 303px;
 }
 
 .u-section-2 .u-text-1 {
@@ -82,7 +82,7 @@
 
 .u-section-2 .u-line-1 {
   transform-origin: left center 0px;
-  margin-top: 83px;
+  margin-top: 86px;
   margin-bottom: 0;
   border-style: dotted;
 }
@@ -167,7 +167,7 @@
 
 .u-section-3 .u-list-1 {
   width: 605px;
-  margin: 20px auto 60px;
+  margin: 41px auto;
 }
 
 .u-section-3 .u-repeater-1 {
@@ -303,9 +303,7 @@
 
   .u-section-3 .u-list-1 {
     width: 658px;
-    margin-top: 44px;
     margin-right: 114px;
-    margin-bottom: 50px;
   }
 
   .u-section-3 .u-repeater-1 {
