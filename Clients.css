@@ -50,38 +50,17 @@
     margin-left: calc(((100% - 340px) / 2) + 16px);
     margin-right: calc(((100% - 340px) / 2) + 16px);
   }
-} .u-section-4 {
-  background-image: none;
-}
-
-.u-section-4 .u-sheet-1 {
-  min-height: 208px;
+}.u-section-4 .u-sheet-1 {
+  min-height: 603px;
 }
 
 .u-section-4 .u-form-1 {
-  height: 77px;
-  width: 655px;
-  background-image: none;
-  margin: 59px auto 60px;
-}
-
-@media (max-width: 1199px) {
-   .u-section-4 {
-    min-height: 403px;
-  }
-}
-
-@media (max-width: 991px) {
-   .u-section-4 {
-    min-height: 110px;
-  }
+  height: 413px;
+  width: 570px;
+  margin: 60px auto;
 }
 
 @media (max-width: 767px) {
-   .u-section-4 {
-    min-height: 210px;
-  }
-
   .u-section-4 .u-form-1 {
     width: 540px;
   }
@@ -92,17 +71,58 @@
     width: 340px;
   }
 } .u-section-5 {
-  min-height: 168px;
+  background-image: none;
 }
 
-.u-section-5 .u-line-1 {
+.u-section-5 .u-sheet-1 {
+  min-height: 208px;
+}
+
+.u-section-5 .u-form-1 {
+  height: 77px;
+  width: 655px;
+  background-image: none;
+  margin: 59px auto 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-5 {
+    min-height: 403px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-5 {
+    min-height: 110px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-5 {
+    min-height: 210px;
+  }
+
+  .u-section-5 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-form-1 {
+    width: 340px;
+  }
+} .u-section-6 {
+  min-height: 602px;
+}
+
+.u-section-6 .u-line-1 {
   transform-origin: left center 0px;
   margin-top: 0;
   margin-bottom: 0;
   border-style: dotted;
 }
 
-.u-section-5 .u-social-icons-1 {
+.u-section-6 .u-social-icons-1 {
   height: 30px;
   min-height: 16px;
   width: 310px;
@@ -110,42 +130,42 @@
   margin: 66px auto 60px calc(((100% - 1140px) / 2) + 415px);
 }
 
-.u-section-5 .u-icon-1 {
+.u-section-6 .u-icon-1 {
   color: rgb(85, 172, 238) !important;
   height: 100%;
 }
 
-.u-section-5 .u-icon-2 {
+.u-section-6 .u-icon-2 {
   height: 100%;
   color: rgb(0, 230, 118) !important;
 }
 
-.u-section-5 .u-icon-3 {
+.u-section-6 .u-icon-3 {
   height: 100%;
   color: rgb(0, 122, 185) !important;
 }
 
-.u-section-5 .u-icon-4 {
+.u-section-6 .u-icon-4 {
   height: 100%;
   color: rgb(219, 83, 75) !important;
 }
 
-.u-section-5 .u-icon-5 {
+.u-section-6 .u-icon-5 {
   height: 100%;
   color: rgb(255, 153, 17) !important;
 }
 
-.u-section-5 .u-icon-6 {
+.u-section-6 .u-icon-6 {
   height: 100%;
   color: rgb(66, 171, 240) !important;
 }
 
-.u-section-5 .u-icon-7 {
+.u-section-6 .u-icon-7 {
   height: 100%;
   color: rgb(115, 96, 242) !important;
 }
 
-.u-section-5 .u-icon-8 {
+.u-section-6 .u-icon-8 {
   height: 100%;
   color: rgb(0, 137, 203) !important;
 }
