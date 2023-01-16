@@ -39146,6 +39146,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 500;
   font-size: 1rem;
   text-transform: none;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -39160,10 +39161,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-logo-image-1 {
     max-width: 64px;
     max-height: 64px;
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
   }
 }
 
