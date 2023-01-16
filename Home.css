@@ -119,8 +119,8 @@
   .u-section-1 .u-btn-1 {
     margin-top: 96px;
     margin-left: 0;
-    padding-right: 17px;
-    padding-left: 16px;
+    padding-right: 24px;
+    padding-left: 24px;
   }
 
   .u-section-1 .u-btn-2 {
@@ -741,10 +741,9 @@
   }
 
   .u-section-3 .u-text-2 {
-    width: 128px;
     margin-top: 9px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 
   .u-section-3 .u-text-3 {
@@ -760,10 +759,9 @@
   }
 
   .u-section-3 .u-text-4 {
-    width: 128px;
     margin-top: 9px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 
   .u-section-3 .u-text-5 {
@@ -779,10 +777,9 @@
   }
 
   .u-section-3 .u-text-6 {
-    width: 128px;
     margin-top: 9px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 
   .u-section-3 .u-text-7 {
@@ -798,10 +795,9 @@
   }
 
   .u-section-3 .u-text-8 {
-    width: 128px;
     margin-top: 9px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 } .u-section-4 {
   min-height: 551px;
@@ -991,13 +987,16 @@
 
   .u-section-4 .u-text-1 {
     font-size: 1.875rem;
-    margin-right: 0;
-    margin-left: 0;
+    width: auto;
+    margin-top: 16px;
+    margin-right: 29px;
+    margin-left: 9px;
   }
 
   .u-section-4 .u-text-2 {
-    margin-left: 54px;
+    margin-top: 30px;
     margin-right: 35px;
+    margin-left: 54px;
   }
 
   .u-section-4 .u-text-3 {
