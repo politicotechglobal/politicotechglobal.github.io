@@ -39187,27 +39187,23 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 177px;
+  min-height: 61px;
 }
 
 .u-footer .u-text-1 {
-  width: 417px;
-  font-weight: 900;
-  margin: 49px auto 40px;
+  font-size: 0.625rem;
+  width: 140px;
+  margin: 23px auto;
 }
-
-.u-footer .u-btn-1 {
-  background-image: none;
-  padding: 0;
-}
-
-
-
-@media (max-width: 575px) {
+@media (max-width: 1199px) {
   .u-footer .u-text-1 {
-    width: 340px;
+    font-weight: normal;
+    width: 140px;
   }
 }
+
+
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
