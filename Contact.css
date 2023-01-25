@@ -51,16 +51,19 @@
   }
 } .u-section-3 {
   background-image: none;
-  min-height: 487px;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 527px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  width: 1140px;
-  margin: 20px auto;
+  margin-top: 20px;
+  margin-bottom: 60px;
 }
 
 .u-section-3 .u-layout-cell-1 {
-  min-height: 477px;
+  min-height: 381px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -90,7 +93,7 @@
 }
 
 .u-section-3 .u-layout-cell-2 {
-  min-height: 477px;
+  min-height: 381px;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -120,7 +123,7 @@
 }
 
 .u-section-3 .u-layout-cell-3 {
-  min-height: 476px;
+  min-height: 381px;
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -149,36 +152,26 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-3 {
-    min-height: 403px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    width: 940px;
-    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  .u-section-3 .u-sheet-1 {
+    min-height: 460px;
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 393px;
+    min-height: 314px;
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 393px;
+    min-height: 314px;
   }
 
   .u-section-3 .u-layout-cell-3 {
-    min-height: 392px;
+    min-height: 314px;
   }
 }
 
 @media (max-width: 991px) {
-   .u-section-3 {
-    min-height: 110px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    width: 720px;
-    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  .u-section-3 .u-sheet-1 {
+    min-height: 246px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -195,13 +188,8 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-3 {
-    min-height: 210px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    width: 540px;
-    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  .u-section-3 .u-sheet-1 {
+    min-height: 346px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -217,13 +205,6 @@
   .u-section-3 .u-container-layout-3 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-3 .u-layout-wrap-1 {
-    width: 340px;
-    margin-left: calc(((100% - 1140px) / 2) + 400px);
   }
 } .u-section-4 {
   min-height: 168px;
