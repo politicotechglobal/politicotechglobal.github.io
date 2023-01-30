@@ -20,6 +20,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0px;
+  font-size: 1rem;
   margin: 38px auto 0 88px;
   padding: 10px 34px;
 }
@@ -29,6 +30,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0px;
+  font-size: 1rem;
   margin: 21px auto 60px 88px;
   padding: 10px 19px;
 }
@@ -117,15 +119,17 @@
   }
 
   .u-section-1 .u-btn-1 {
+    font-size: 0.875rem;
     margin-top: 96px;
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-right: 22px;
+    padding-left: 20px;
   }
 
   .u-section-1 .u-btn-2 {
+    font-size: 0.875rem;
     margin-top: 12px;
-    margin-bottom: 48px;
-    padding-right: 10px;
+    margin-bottom: 54px;
+    padding-right: 8px;
     padding-left: 8px;
   }
 } .u-section-2 {
