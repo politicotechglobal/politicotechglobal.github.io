@@ -1,6 +1,6 @@
  .u-section-1 {
   background-image: url("images/240af3e54777410115a228b7b6cb8cee62830b6e65ea3bdacb0749bffb186eb8ac231ba047fc8ef524a9887044fabd1bdc09d379c60e6c9a2c5cbe_1280.jpg");
-  background-position: 50% 50%;
+  background-position: 50% 0%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -31,7 +31,7 @@
   text-transform: uppercase;
   letter-spacing: 0px;
   font-size: 1rem;
-  margin: 21px auto 0 88px;
+  margin: 21px auto 54px 88px;
   padding: 10px 19px;
 }
 
@@ -42,20 +42,16 @@
 
   .u-section-1 .u-text-1 {
     font-size: 5rem;
-    width: auto;
-    margin-top: 36px;
-    margin-right: 281px;
-    margin-left: 89px;
+    margin-right: 370px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 75px;
-    margin-left: 89px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: 36px;
-    margin-left: 89px;
+    margin-left: 0;
   }
 }
 
@@ -66,19 +62,7 @@
 
   .u-section-1 .u-text-1 {
     font-size: 4.5rem;
-    margin-top: 48px;
-    margin-right: 235px;
-    margin-left: 77px;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: 63px;
-    margin-left: 77px;
-  }
-
-  .u-section-1 .u-btn-2 {
-    margin-top: 33px;
-    margin-left: 77px;
+    margin-right: 150px;
   }
 }
 
@@ -88,47 +72,27 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 133px;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: 49px;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-btn-2 {
-    margin-top: 23px;
-    margin-left: 0;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
-    background-position: 79.29% 0%;
-    background-size: auto 125%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 464px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
-    margin-right: 0;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.875rem;
-    margin-top: 96px;
     padding-right: 22px;
     padding-left: 20px;
   }
 
   .u-section-1 .u-btn-2 {
     font-size: 0.875rem;
-    margin-top: 12px;
-    margin-bottom: 54px;
     padding-right: 8px;
     padding-left: 8px;
   }
