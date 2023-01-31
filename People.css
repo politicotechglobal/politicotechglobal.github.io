@@ -98,8 +98,6 @@
 .u-section-3 .u-image-1 {
   width: 215px;
   height: 121px;
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-scale: 1;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: -33px auto 0 calc(((100% - 1140px) / 2) + 391px);
 }
@@ -160,6 +158,8 @@
   }
 
   .u-section-3 .u-image-1 {
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-scale: 1;
     margin-left: 341px;
   }
 
