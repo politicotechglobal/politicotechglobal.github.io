@@ -40350,15 +40350,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 126px;
-  }
-
   .u-header .u-image-1 {
     margin-top: 31px;
   }
 
   .u-header .u-menu-1 {
+    margin-top: -48px;
     margin-right: 15px;
     margin-bottom: 47px;
   }
