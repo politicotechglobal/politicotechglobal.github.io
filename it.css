@@ -1037,7 +1037,7 @@
   }
 
   .u-section-4 .u-group-2 {
-    min-height: 398px;
+    min-height: 417px;
     margin-top: -382px;
     height: auto;
   }
@@ -1052,6 +1052,21 @@
 
   .u-section-4 .u-text-2 {
     width: 251px;
+  }
+
+  .u-section-4 .u-text-3 {
+    width: auto;
+    margin-top: -281px;
+  }
+
+  .u-section-4 .u-text-4 {
+    width: auto;
+    margin-top: 19px;
+  }
+
+  .u-section-4 .u-text-5 {
+    margin-top: 37px;
+    margin-bottom: 0;
   }
 }
 
