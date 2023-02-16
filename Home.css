@@ -698,7 +698,6 @@
     grid-gap: 14px 14px;
     min-height: 540px;
     grid-template-columns: calc(50% - 7px) calc(50% - 7px);
-    grid-auto-columns: calc(50% - 7px);
   }
 
   .u-section-3 .u-container-layout-1 {
